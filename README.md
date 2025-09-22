@@ -3,7 +3,7 @@
 
 This dashboard provides a comprehensive analysis of car sales data. It highlights the **total sales, engine sizes, fuel types, and brand performance** across different manufacturers.
 ## Dashboard Preview
-![Dashboard Preview](reports/Screenshot%20(25).png)
+![Dashboard Preview](reports/Screenshot%20(26).png)
 
 ### 🔹 Key Metrics
 
